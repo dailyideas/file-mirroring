@@ -1,0 +1,16 @@
+## Project-level
+.caches/
+.ipynb_checkpoints/
+.legacy/
+.logs/
+.temp/
+__pycache__/
+caches/
+logs/
+temp/
+
+## Local-level
+/.env
+/.venv/
+/.vscode/
+/docker/
